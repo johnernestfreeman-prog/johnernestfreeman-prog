@@ -7,7 +7,7 @@
 <h3>Full Stack Developer | MERN | Three.js | IT Support Background</h3>
  
 </div>
----
+
  
 <div align="center">
 <table>
