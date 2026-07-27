@@ -13,7 +13,7 @@
 ### 🧑‍💻 About Me
 - 🎯 Actively pursuing a **Junior Developer** or **IT Help Desk** role
 - 🛠️ Building full-stack applications and 3D web experiences
-- 🎮 Drawn to creative, game-adjacent aesthetics — Windows XP nostalgia, Zelda-style UI, Pixar-style 3D
+- 🎮 Drawn to creative, game-adjacent aesthetics — Windows XP nostalgia
 - 📫 Reach me at **john.ernest.freeman@gmail.com**
 ---
  
