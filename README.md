@@ -3,7 +3,7 @@
  
 <a href="https://xp-it-helpdesk-windows-portfolio.netlify.app/"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-FF6B00?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Live Site"></a>
  
-<h1>Hi, I'm John Freeman<img src="16-164750_free-mouse-pointer-hand-cursor.png" width="20" height="20"></h1> 
+<h1>Hi, I'm John Freeman<img src="cup-removebg-preview.png" width="20" height="20"></h1> 
 <h3>Full Stack Developer | MERN | Three.js | IT Support Background</h3>
  
 </div>
