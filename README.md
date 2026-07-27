@@ -31,7 +31,7 @@ I'm an IT student who loves creating things that are both useful and functional.
 <td width="33%" valign="top">
 **📊 GitHub Stats**
  
-<img src="https://github-readme-stats.vercel.app/api?username=johnernestfreeman-prog&show_icons=true&theme=dark&hide_border=false&border_color=8a2be2&bg_color=0d1117" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=johnernestfreeman-prog" alt="johnernestfreeman-prog" />
 </td>
 </tr>
 </table>
