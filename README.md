@@ -19,6 +19,7 @@ I'm an IT student who loves creating things that are both useful and functional.
  
 **Currently focused on:**
 - <img src="Wifi-removebg-preview.png" width="20" height="20" >Web Development
+ 
 <img src="computer.room-removebg-preview.png" width="20"  height="20"> Help Desk & IT Support
 - 🎮 Game Development
 - ⚙️ System Automation
