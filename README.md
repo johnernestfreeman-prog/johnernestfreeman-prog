@@ -54,6 +54,13 @@ A full-stack help desk ticketing app built with Express and MongoDB, covering ti
 A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics and game logic.
  
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=johnernestfreeman-prog&show_icons=true&theme=dark" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnernestfreeman-prog&layout=compact&theme=dark" alt="Top Languages">
+
+
+
+
+
  
 <div align="center">
 </div>
