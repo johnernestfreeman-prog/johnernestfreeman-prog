@@ -50,7 +50,7 @@ I'm an IT student who loves creating things that are both useful and functional.
  
 ### 📌 Featured Projects
  
- <img src="Computer-Engine-removebg-preview.png" width="20" height="20"> [IT Helpdesk XP Portfolio](https://xp-it-helpdesk-windows-portfolio.netlify.app/)  🎫 [IT Ticket Management System](https://it-ticket-system.netlify.app/) | 🕹️ [BlobbyVolley3D](https://windows-xp-2001.netlify.app) 
+ <img src="Computer-Engine-removebg-preview.png" width="20" height="20">[IT Helpdesk XP Portfolio](https://xp-it-helpdesk-windows-portfolio.netlify.app/)  <img src="Mouse.png" width="20" height="20"> [IT Ticket Management System](https://it-ticket-system.netlify.app/) | 🕹️ [BlobbyVolley3D](https://windows-xp-2001.netlify.app) 
 |---|---|---|
 | A Windows XP–styled interactive portfolio site — boot/login screens, a draggable-window desktop, and built-in mini apps (Contact form, CV viewer, Music player, Minesweeper, and a custom Blobby Volley game built in Canvas). | A full-stack help desk ticketing app built with Express and MongoDB, covering ticket creation, tracking, and resolution workflows. | A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics and game logic. |
 | `React` `Three.js` `Vite` `GSAP` | `Node.js` `Express` `MongoDB` | `C++` `Game Dev` |
