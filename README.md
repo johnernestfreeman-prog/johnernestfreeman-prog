@@ -64,7 +64,3 @@ A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics a
 ![snake](https://raw.githubusercontent.com/johnernestfreeman-prog/johnernestfreeman-prog/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-
-
-
