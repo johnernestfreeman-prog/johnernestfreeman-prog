@@ -57,6 +57,4 @@ I'm an IT student who loves creating things that are both useful and functional.
  
 ---
  
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=johnernestfreeman-prog" alt="johnernestfreeman-prog" />
-</div>
+
