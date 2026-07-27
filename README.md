@@ -10,7 +10,7 @@
 ---
 
 
-
+<div align="center">
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -29,6 +29,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </td>
 <td width="33%" valign="top">
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
