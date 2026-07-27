@@ -56,13 +56,5 @@ A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics a
 ---
  
 <div align="center">
-### 🔥 GitHub Streak
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=johnernestfreeman-prog&theme=dark)
- 
-### 🐍 Contribution Snake
- 
-![snake](https://raw.githubusercontent.com/johnernestfreeman-prog/johnernestfreeman-prog/output/github-contribution-grid-snake.svg)
- 
 </div>
  
