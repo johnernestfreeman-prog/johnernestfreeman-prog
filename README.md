@@ -29,7 +29,7 @@ I'm an IT student who loves creating things that are both useful and functional.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,vite,nodejs,express,mongodb,cpp,git" />
 </td>
 <td width="33%" valign="top">
-**<img src="Computer.room-removebg-preview.png"> GitHub Stats**
+**<img src="computer.room-removebg-preview.png"> GitHub Stats**
  
 <img src="https://streak-stats.demolab.com/?user=johnernestfreeman-prog" alt="johnernestfreeman-prog" />
 </td>
