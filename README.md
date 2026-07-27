@@ -47,10 +47,10 @@
 **🖥️ [IT Helpdesk XP Portfolio](https://xp-it-helpdesk-windows-portfolio.netlify.app/)**
 A Windows XP–styled interactive portfolio site — boot/login screens, a draggable-window desktop, and built-in mini apps (Contact form, CV viewer, Music player, Minesweeper, and a custom Blobby Volley game built in Canvas).
  
-**🎫 IT Ticket Management System**
+**🎫 [IT Ticket Management System](https://it-ticket-system.netlify.app/)**
 A full-stack help desk ticketing app built with Express and MongoDB, covering ticket creation, tracking, and resolution workflows.
  
-**🕹️ BlobbyVolley3D**
+**🕹️ [BlobbyVolley3D](https://windows-xp-2001.netlify.app)**
 A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics and game logic.
  
 ---
