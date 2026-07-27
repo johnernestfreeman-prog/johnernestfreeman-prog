@@ -39,6 +39,51 @@
 ![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
  
 </div>
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.com/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20John&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20%E2%80%A2%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=20" width="100%"/>
+<a href="#"><img src="https://img.shields.io/badge/Check%20out%20my%20projects-2a5298?style=for-the-badge" /></a>
+<a href="https://xp-it-helpdesk-windows-portfolio.netlify.app/"><img src="https://img.shields.io/badge/View%20my%20portfolio-1e3c72?style=for-the-badge" /></a>
+<a href="mailto:john.ernest.freeman@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
+</div>
+## About Me
+ 
+I'm an IT student who loves building things that are both useful and functional.
+I enjoy working on projects that push me to grow as a developer.
+ 
+**Currently focused on:**
+- 🖥️ Help Desk & IT Support
+- 🌐 Full-Stack Web Development
+- 🎮 3D / Game-Adjacent Web Experiences
+- ⚙️ System Automation
+## Tech Stack
+ 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,threejs,nodejs,express,mongodb,vscode,blender,git,windows" />
+</div>
+## GitHub Stats
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" height="165"/>
+
+
+
+
+
+
+
+
+
+
+
 ---
  
 ### 📌 Featured Projects
