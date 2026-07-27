@@ -41,6 +41,50 @@
 </div>
 
 
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 👤 About Me
+
+I'm an IT student who loves creating things that are both useful and functional.
+I enjoy working on projects that challenge me and help me grow as a developer.
+
+**Currently focused on:**
+- 🌐 Web Development
+- 🖥️ Help Desk & IT Support
+- 🎮 Game Development
+- ⚙️ System Automation
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,php,mysql,git,linux,vscode,blender,figma,windows" />
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=false&border_color=8a2be2&bg_color=0d1117" width="100%"/>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
 ---
  
 ### 📌 Featured Projects
