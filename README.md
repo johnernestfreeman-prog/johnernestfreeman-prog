@@ -1,7 +1,5 @@
 <div align="center">
 ![Portfolio Demo](https://raw.githubusercontent.com/johnernestfreeman-prog/johnernestfreeman-prog/main/Windows-XP-gif.gif)
-
-
  
 [🖥️ Visit Live Site](https://xp-it-helpdesk-windows-portfolio.netlify.app/)
  
