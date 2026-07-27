@@ -20,6 +20,7 @@
 I'm an IT student who loves creating things that are both useful and functional.
 I enjoy working on projects that challenge me and help me grow as a developer.
 
+
 **Currently focused on:**
 - 🌐 Web Development
 - 🖥️ Help Desk & IT Support
@@ -45,15 +46,6 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 
 
-
-
- 
-### 🧑‍💻 About Me
-- 🎯 Actively pursuing a **Junior Developer** or **IT Help Desk** role
-- 🛠️ Building full-stack applications and 3D web experiences
-- 🎮 Drawn to creative, game-adjacent aesthetics — Windows XP nostalgia
-- 📫 Reach me at **john.ernest.freeman@gmail.com**
----
  
 <div align="center">
 ### 🌐 Connect
