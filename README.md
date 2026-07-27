@@ -36,7 +36,7 @@ I'm an IT student who loves creating things that are both useful and functional.
 </tr>
 </table>
 </div>
----
+
  
 <div align="center">
 ### 🌐 Connect
@@ -46,7 +46,7 @@ I'm an IT student who loves creating things that are both useful and functional.
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnernestfreeman-prog)
  
 </div>
----
+
  
 ### 📌 Featured Projects
  
