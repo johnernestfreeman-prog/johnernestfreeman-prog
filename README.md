@@ -18,7 +18,7 @@
 I'm an IT student who loves creating things that are both useful and functional. I enjoy working on projects that challenge me and help me grow as a developer.
  
 **Currently focused on:**
-- 🌐 Web Development
+- <img src="Wifi-removebg-preview.png" width="20" height="20" >Web Development
 - 🖥️ Help Desk & IT Support
 - 🎮 Game Development
 - ⚙️ System Automation
