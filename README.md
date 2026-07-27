@@ -49,34 +49,11 @@ I'm an IT student who loves creating things that are both useful and functional.
  
 ### 📌 Featured Projects
  
-<table>
-<tr>
-<td width="33%" valign="top">
-**🖥️ [IT Helpdesk XP Portfolio](https://xp-it-helpdesk-windows-portfolio.netlify.app/)**
+| 🖥️ [IT Helpdesk XP Portfolio](https://xp-it-helpdesk-windows-portfolio.netlify.app/) | 🎫 [IT Ticket Management System](https://it-ticket-system.netlify.app/) | 🕹️ [BlobbyVolley3D](https://windows-xp-2001.netlify.app) |
+|---|---|---|
+| A Windows XP–styled interactive portfolio site — boot/login screens, a draggable-window desktop, and built-in mini apps (Contact form, CV viewer, Music player, Minesweeper, and a custom Blobby Volley game built in Canvas). | A full-stack help desk ticketing app built with Express and MongoDB, covering ticket creation, tracking, and resolution workflows. | A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics and game logic. |
+| `React` `Three.js` `Vite` `GSAP` | `Node.js` `Express` `MongoDB` | `C++` `Game Dev` |
  
-A Windows XP–styled interactive portfolio site — boot/login screens, a draggable-window desktop, and built-in mini apps (Contact form, CV viewer, Music player, Minesweeper, and a custom Blobby Volley game built in Canvas).
- 
-`React` `Three.js` `Vite` `GSAP`
- 
-</td>
-<td width="33%" valign="top">
-**🎫 [IT Ticket Management System](https://it-ticket-system.netlify.app/)**
- 
-A full-stack help desk ticketing app built with Express and MongoDB, covering ticket creation, tracking, and resolution workflows.
- 
-`Node.js` `Express` `MongoDB`
- 
-</td>
-<td width="33%" valign="top">
-**🕹️ [BlobbyVolley3D](https://windows-xp-2001.netlify.app)**
- 
-A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics and game logic.
- 
-`C++` `Game Dev`
- 
-</td>
-</tr>
-</table>
 ---
  
 <div align="center">
