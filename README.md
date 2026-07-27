@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/johnernestfreeman-prog/johnernestfreeman-prog/main/Windows-XP-gif.gif" alt="Portfolio Demo" width="800">
 
  
-<a href="https://https://windows-xp-2001.netlify.app//"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-FF6B00?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Live Site"></a>
+<a href="https://windows-xp-2001.netlify.app//"><img src="https://img.shields.io/badge/VISIT_LIVE_SITE-FF6B00?style=for-the-badge&logo=netlify&logoColor=white" alt="Visit Live Site"></a>
  
 <h1>Hi 👋, I'm John Freeman</h1>
 <h3>Full Stack Developer | MERN | Three.js | IT Support Background</h3>
