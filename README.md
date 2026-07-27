@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="33%" valign="top">
-**<img src="png-clipart-leopard-for-windows-xp-green-person-illustration.png" width="40" height="30"> About Me**
+**<img src="png-clipart-leopard-for-windows-xp-green-person-illustration.png" width="40" height="30"><h1>About Me</h1> 
  
 I'm an IT student who loves creating things that are both useful and functional. I enjoy working on projects that challenge me and help me grow as a developer.
  
