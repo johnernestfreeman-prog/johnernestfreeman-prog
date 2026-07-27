@@ -39,7 +39,7 @@ I'm an IT student who loves creating things that are both useful and functional.
 
  
 <div align="center">
-### 🌐 Connect
+ <img src="Wifi-removebg-preview.png" width="20" height="20"> Connect
  
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-freeman-0699b5326)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.ernest.freeman@gmail.com)
