@@ -55,8 +55,6 @@ A C++ recreation/expansion of the classic Blobby Volley, focused on 3D physics a
 ---
  
 <div align="center">
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnernestfreeman-prog&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnernestfreeman-prog&layout=compact&theme=tokyonight)
 </div>
 ---
