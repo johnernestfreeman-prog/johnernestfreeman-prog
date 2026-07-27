@@ -20,8 +20,8 @@ I'm an IT student who loves creating things that are both useful and functional.
 **Currently focused on:**
 - <img src="Wifi-removebg-preview.png" width="20" height="20" >Web Development
 - <img src="computer.room-removebg-preview.png" width="20"  height="20"> Help Desk & IT Support
-- <img src="Game_controller-removebg-preview.png" width="60"  height="60"> Game Development
-- <img src="gear-removebg-preview.png" width="60" height="60"> System Automation
+- <img src="Game_controller-removebg-preview.png" width="20"  height="20"> Game Development
+- <img src="gear-removebg-preview.png" width="20" height="20"> System Automation
 </td>
 <td width="33%" valign="top">
 <img src="windows_colors_4-removebg-preview.png" width="20" height="20"> Tech Stack
